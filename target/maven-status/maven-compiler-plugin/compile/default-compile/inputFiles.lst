@@ -1,0 +1,9 @@
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\ApiApplication.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\controller\AuthController.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\controller\LeadsController.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\controller\NewsController.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\controller\ProfileController.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\controller\SalesController.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\model\User.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\security\JwtUtil.java
+C:\Users\Daniel Eloy\APIAuthenticator\src\main\java\com\example\api\service\AuthService.java
